@@ -7,6 +7,22 @@
 	],
 	"profile": {
 		"name": "typicode",
-		"balance": 6.66
+		"balance": 6.66,
+		"detail":[
+			{
+				"AType":"服务站",
+				"After":686,
+				"Amount":18,
+				"Before":668,
+				"CreateTime":"2019/04/27 17:12"
+			},
+			{
+				"AType":"推荐人",
+				"After":18,
+				"Amount":18,
+				"Before":0,
+				"CreateTime":"2019/04/27 16:12"
+			}
+		]
 	}
 }
