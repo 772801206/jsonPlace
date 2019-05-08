@@ -1,15 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-    	"id":2,
-    	"balance":6.66
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [
+		{
+			"id": 1,
+			"title": "hello"
+		}
+	],
+	"profile": {
+		"name": "typicode",
+		"balance": 6.66
+	}
 }
